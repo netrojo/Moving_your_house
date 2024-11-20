@@ -32,7 +32,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    line-height: 10px;
+    
 }
 body {
     font-family: Cairo;
@@ -40,7 +40,6 @@ body {
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
-    line-height: 1.8;
 }
 /* End Globale Rules */
 /* ---------------------------------- */
