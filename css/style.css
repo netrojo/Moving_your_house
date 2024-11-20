@@ -744,7 +744,7 @@ header .con-head {
         color: var(--main-color);
         font-weight: bold;
         position: absolute;
-        top: 50%;
+        top: 65%;
         left: 15px;
         font-size: 11px;
         visibility: visible;
