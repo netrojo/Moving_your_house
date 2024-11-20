@@ -397,6 +397,7 @@ header .con-head {
 }
 .con-srv .srv .box .image {
     overflow: hidden;
+    flex-grow: 1;
     height: 170px;
     transition-duration: 0.3s;
 }
